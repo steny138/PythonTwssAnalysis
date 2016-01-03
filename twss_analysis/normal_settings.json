@@ -1,0 +1,3 @@
+{
+	"engine_connect" : "mysql://user:user@127.0.0.1:3307/stock_analysis"
+}
